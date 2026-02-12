@@ -1,4 +1,4 @@
-# TopTime: Persistent Topological Representations for Time-Series Modeling
+# TopTime: Persistent Topological Representations for Enhancing Time-Series Modeling and Interpretation
 
 This repository provides the official implementation of **TopTime**, a topology-guided representation framework for time-series analysis.
 
